@@ -179,6 +179,10 @@ h2 {
     max-width: 440px;
 }
 
+.text_store p {
+    padding-top: 20px;
+}
+
 .btn_wrapper {
     width: 440px;
 }
@@ -190,7 +194,7 @@ h2 {
 }
 
 .macbooc_pro {
-    max-width: 1160px;
+    max-width: 1060px;
 }
 
 /*FOOTER*/
@@ -201,4 +205,30 @@ h2 {
     background-repeat: no-repeat;
     background-color: black;
     height: 536px;
+}
+
+.info_wrapper {
+    margin-left: 450px;
+    padding-top: 124px;
+    max-width: 930px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info p {
+    margin-bottom: 14px;
+}
+
+.mini_logo {
+    max-width: 140px;
+    padding-top: 80px;
+    margin-left: 122px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1180px;
+    margin-left: 122px;
+    margin-top: 30px;
 }
